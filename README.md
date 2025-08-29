@@ -43,6 +43,8 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
+Find product of all numbers and then go for answer[i] = prod/nums[i] --> O(n) 
+
 [Solution](Solutions/002.py)
 
 ---
