@@ -27,6 +27,8 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
+Start with n^2 brute --> Go for O(nlg(n)) set --> Go for 2 pointers(still O(nlg(n))
+
 [Solution](Solutions/001.py)
 
 ---
